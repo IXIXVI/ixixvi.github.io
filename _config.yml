@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yining Zhou's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yining Zhou"
-description              : &description "I am a doctoral candidate studying in Northeast Normal University, where I work on statistics and machine learning."
+description              : &description "I am a PhD student of Northeast Normal University in China, where I work on statistics and machine learning."
 url                      : https://ixixvi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ixixvi/ixixvi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yining Zhou (周艺宁)"
   avatar           : "profile.png"
-  bio              : "PhD student of Northeast Normal University"
+  bio              : "I am a PhD student of Northeast Normal University in China, where I work on statistics and machine learning."
   location         : "Changchun, Jilin, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/id/IXIXVI/"
+  steam            : "IXIXVI"
   tumblr           :
   twitter          : 
   vine             :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
