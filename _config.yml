@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yining Zhou"
+title                    : "Yining Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Yining Zhou"
 description              : &description "I am a doctoral candidate studying in Northeast Normal University, where I work on statistics and machine learning."
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/id/IXIXVI/"
   tumblr           :
   twitter          : 
   vine             :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
