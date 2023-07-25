@@ -1,4 +1,5 @@
 # main links links
+# 决定bar显示哪些, 对应哪些文件夹
 main:
   - title: "Publications"
     url: /publications/
