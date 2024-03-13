@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,xbox  
   - DOMAIN-KEYWORD,msn 
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,aadrm.com
@@ -19,7 +20,6 @@ payload:
   - DOMAIN-SUFFIX,azurerms.com
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,adobedtm.com
-  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
   - DOMAIN-SUFFIX,edgesuite.net
