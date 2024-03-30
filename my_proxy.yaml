@@ -1,6 +1,7 @@
 payload:
   # > my_proxy
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,bulianglin.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,githubusercontent.com
