@@ -2,7 +2,8 @@ payload:
   # > my_proxy
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,flyingbird
-  - DOMAIN-KEYWORD,bulianglin.com
+  - DOMAIN-KEYWORD,ikuuu
+  - DOMAIN-KEYWORD,bulianglin
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
