@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,worldscientific.com
   - DOMAIN-SUFFIX,manual.gromacs.org
   - DOMAIN-KEYWORD,sci-hub
+  - DOMAIN-KEYWORD,scholar
   - DOMAIN-SUFFIX,ccdc.cam.ac.uk
   - DOMAIN-KEYWORD,wiley
   - DOMAIN-KEYWORD,pubs
