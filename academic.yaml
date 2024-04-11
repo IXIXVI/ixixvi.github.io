@@ -1,5 +1,5 @@
 payload:
-  # > my_proxy
+  # > academic
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acs.org
   - DOMAIN-SUFFIX,aip.org
@@ -61,7 +61,6 @@ payload:
   - DOMAIN-KEYWORD,wiley
   - DOMAIN-KEYWORD,pubs
   - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,iresearchbook.cn
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,nature.com
