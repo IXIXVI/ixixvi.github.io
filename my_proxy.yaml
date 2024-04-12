@@ -1,6 +1,11 @@
 payload:
   # > my_proxy
   - DOMAIN-KEYWORD,github
+  - DOMAIN,www.google.com
+  - DOMAIN,ogs.google.com
+  - DOMAIN,accounts.google.com
+  - DOMAIN,waa-pa.clients6.google.com
+  - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-KEYWORD,flyingbird
   - DOMAIN-KEYWORD,ikuuu
   - DOMAIN-KEYWORD,bulianglin
