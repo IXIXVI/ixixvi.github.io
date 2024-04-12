@@ -1,6 +1,7 @@
 payload:
   # > my_proxy
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,google.com
   - DOMAIN-KEYWORD,flyingbird
   - DOMAIN-KEYWORD,ikuuu
   - DOMAIN-KEYWORD,bulianglin
