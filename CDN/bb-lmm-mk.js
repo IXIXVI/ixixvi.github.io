@@ -1,6 +1,8 @@
 /*
 Last Modified time : 20230926 11:00 by https://immmmm.com
 */
+
+
 var bbMemo = {
   memos: 'https://demo.usememos.com/',
   limit: '10',
@@ -585,3 +587,4 @@ function loadArtalk(e) {
     ArtalkDom_ID.remove();
   }
 }
+delete bbMemo
