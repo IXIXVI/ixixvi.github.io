@@ -1,9 +1,7 @@
 /*
 Last Modified time : 20230926 11:00 by https://immmmm.com
 */
-
-
-var bbMemo = {
+let bbMemo = {
   memos: 'https://demo.usememos.com/',
   limit: '10',
   creatorId: '1',
@@ -250,7 +248,7 @@ function meNums(apiV1){
   let bbUrl = memos+"api/"+apiV1+"memo/stats?creatorId="+bbMemo.creatorId
   fetch(bbUrl).then(res => res.json()).then( resdata =>{
     if(resdata){
-      let allnums = `<div id="bb-footer"><p class="bb-allnums"> ${resdata.length} in total </p><p class="bb-allpub"></p></div>`
+      let allnums = `<div id="bb-footer"><p class="bb-allnums"> ${resdata.length} in total </p><p class="bb-allpub"><a href="https://memos.cloud.yiningzhou.cn/" target="_blank">View my Memos</a></p></div>`
       bbLoad.insertAdjacentHTML('afterend', allnums);
     }
   })
@@ -587,4 +585,3 @@ function loadArtalk(e) {
     ArtalkDom_ID.remove();
   }
 }
-delete bbMemo
